@@ -1,4 +1,5 @@
 # wtsp-chat-analyser-web
+online heroku link @ https://wtsp-chat-analyzer.herokuapp.com/
 this is a web app build and deployed on streamlit which uses all data analysis technique to find all kind of analysis using whatsapp chats 
 ![Screenshot (23)_LI](https://user-images.githubusercontent.com/61107453/126898069-cdb7b555-f444-4517-bccf-f6f68371441b.jpg)
 ![Screenshot (24)](https://user-images.githubusercontent.com/61107453/126898075-c4025fd4-e417-4f18-b8a8-390169df4626.png)
